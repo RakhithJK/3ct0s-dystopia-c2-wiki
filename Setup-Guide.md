@@ -1,5 +1,3 @@
-# Setup guide for Disctopia
-
 Please follow the following steps to setup Disctopia.
 
  ## Step 1# Create the Server
