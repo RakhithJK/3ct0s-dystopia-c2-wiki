@@ -55,6 +55,10 @@
 
     With the !persistence command you will enable persistence on the target agent.
 
+- **!selfdestruct {AGENT-ID}**
+
+    The !selfdestruct command will delete every trace of Disctopia on the target agent.
+
 - **!ls**
 
     With the !ls command you will get the list of all the online agents.
