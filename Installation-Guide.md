@@ -1,5 +1,3 @@
-# Disctopia Installation Guide
-
 You need to clone the repository with the command
 ```
 git clone https://github.com/3ct0s/disctopia-c2.git
