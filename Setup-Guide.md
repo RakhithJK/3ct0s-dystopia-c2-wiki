@@ -72,4 +72,4 @@ You will need to enable the developer option for your Discord account. To do tha
 
 ## Build the Backdoor
 
-Now you can move to the next step which is building the backdoor. Follow the [build guide](BUILD.md) to build the backdoor.
+Now you can move to the next step which is building the backdoor. Follow the [build guide](https://github.com/3ct0s/disctopia-c2/wiki/Build-Guide) to build the backdoor.
