@@ -1,1 +1,1 @@
-Welcome to the disctopia-c2 wiki!
+Follow the Pages to get started with Disctopia
