@@ -29,4 +29,4 @@ Once you are done with the installation you can move to the next step which is s
 
 ## Setup Disctopia
 
-Follow the [setup guide](SETUP.md) to setup Disctopia.
+Follow the [setup guide](https://github.com/3ct0s/disctopia-c2/wiki/Setup-Guide) to setup Disctopia.
