@@ -42,6 +42,7 @@
 - **!keylog {AGENT-ID} {REPORT-EVERY}**
 
     With the !keylog command you initiate the keylogger on the specified agent. Make sure you add how often the keylogger will report to you in SECONDS. 
+    
     To stop the keylogger on the target machine you will need to run the **!keylog AGENT-ID stop** command.
 
     Keylogs will be saved on the **#keylogs** channel.
