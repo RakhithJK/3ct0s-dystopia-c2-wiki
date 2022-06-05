@@ -15,6 +15,10 @@
 
     With the !process command you can view all the process on the agent.
 
+- **!killproc {AGENT-ID} {PID}**
+
+    With the !killproc command you can kill the specified process using its PID (You can retrieve this using the !process command) on the agent.
+
 - **!download {AGENT-ID} {PATH}**
 
     With the !download command you can download a file from the agent. You will need to specify the full path to the file.
