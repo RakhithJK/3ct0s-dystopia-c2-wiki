@@ -31,12 +31,6 @@
 
     Uploads can be found on the `C:\Users\USERNAME\.config\uploads` directory.
 
-- **!token {AGENT-ID}**
-
-    With the !token command you can get the stored Discord Tokens from the agent.
-
-    The tokens will be saved on the **#tokens** channel.
-
 - **!screenshot {AGENT-ID}**
 
     With the !screenshot command you can take a screenshot of the agents screen.
