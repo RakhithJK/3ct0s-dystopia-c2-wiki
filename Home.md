@@ -1,6 +1,6 @@
 # Disctopia Setup guide
 
-## **Discord**
+## **Discord Backdoors**
 
 ### Step 1# Create server
 
@@ -91,7 +91,7 @@ Now that you have all the important info gathered you can go ahead and build a D
 
 ---
 
-## **Telegram**
+## **Telegram Backdoors**
 
 ### Step #1 Create Bot
 
@@ -119,7 +119,7 @@ Copy and save your **id** as you will also need it to generate a telegram backdo
 
 ---
 
-## **GitHub**
+## **GitHub Backdoors**
 
 ### Step #1 Create A Private Repo
 
