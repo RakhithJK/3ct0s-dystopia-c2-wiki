@@ -73,7 +73,7 @@ You will need to enable the developer option for your Discord account. To do tha
 ![image](https://i.ibb.co/BKnvn8H/Discord-Web-Enable-Developer-Mode.png)
 
 
-## Step 6# Gather the important info
+### Step 6# Gather the important info
 
 Now that you are all setup, in order to build a Discord based backdoor you are going to need the Bot Token,Webhook, main channel's ID and Servers ID.
 
