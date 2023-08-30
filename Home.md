@@ -12,9 +12,9 @@ Give your server a name and click on the "Create" button.
 
 ### Step 2# Create the Webhook
 
-You need to create 2 Discord Webhooks from your **Servers Settings >> Intergrations >> Webhooks.**
+You need to create 1 Discord Webhook from your **Servers Settings >> Intergrations >> Webhooks.**
 
- Name it **"Keylogger"** and set it's channel to **"main"**
+ Name it **"Keylogger"** and set it's channel to **"keylogger"**
 
 ![image](https://i.ibb.co/RBmNS3K/Capture.png)
 
