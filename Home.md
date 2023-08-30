@@ -7,7 +7,7 @@
 You need to create a Discord server using [this](https://discord.new/k2BdGKDEpQpJ) template.
 
 You should get this on Discord after clicking the link:
-![image](https://i.ibb.co/WczCgPZ/Capture.png)
+![image](https://i.ibb.co/YDpqjF4/Screenshot-2023-08-30-at-15-50-05.png)
 Give your server a name and click on the "Create" button.
 
 ### Step 2# Create the Webhook
