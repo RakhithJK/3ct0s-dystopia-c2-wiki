@@ -1,4 +1,4 @@
-# Disctopia Setup guide
+# Dystopia Setup guide
 
 ## **Discord**
 
